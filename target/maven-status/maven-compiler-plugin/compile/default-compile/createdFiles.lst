@@ -1,0 +1,10 @@
+com\coril\marketconsole\infrastructure\ibkr\IbkrMarketDataHandler.class
+com\coril\marketconsole\domain\model\Quote.class
+com\coril\marketconsole\domain\model\OrderBook.class
+com\coril\marketconsole\domain\port\MarketDataPort.class
+com\coril\marketconsole\application\ConsoleRenderer.class
+com\coril\marketconsole\infrastructure\ibkr\IbkrDepthBookHandler.class
+com\coril\marketconsole\domain\port\DepthBookPort.class
+com\coril\marketconsole\infrastructure\ibkr\IbkrConnectionManager.class
+com\coril\marketconsole\MarketConsoleApplication.class
+com\coril\marketconsole\domain\model\DepthEntry.class

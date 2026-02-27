@@ -1,0 +1,10 @@
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\application\ConsoleRenderer.java
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\domain\model\DepthEntry.java
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\domain\model\OrderBook.java
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\domain\model\Quote.java
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\domain\port\DepthBookPort.java
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\domain\port\MarketDataPort.java
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\infrastructure\ibkr\IbkrConnectionManager.java
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\infrastructure\ibkr\IbkrDepthBookHandler.java
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\infrastructure\ibkr\IbkrMarketDataHandler.java
+C:\Local Disk (D)\02_Demo\dma-marketdata-ws\dma-market-ws-ibkr\src\main\java\com\coril\marketconsole\MarketConsoleApplication.java
