@@ -66,6 +66,24 @@ mvn install:install-file \
    - Add `127.0.0.1` to **Trusted IPs**
 3. Ensure **Market Data** subscriptions are active for the symbols you want to monitor
 
+## Docker Quick Start (alternative)
+
+Instead of installing IB Gateway locally, run it in Docker:
+
+```bash
+cp .env.example .env
+# Edit .env with your IBKR credentials
+docker compose up -d
+```
+
+Wait for the health check to pass (`docker compose ps`), then run the console:
+
+```bash
+java -jar target/ibkr-market-console-1.0.0-SNAPSHOT.jar --symbols AAPL,MSFT
+```
+
+Port `5900` exposes a VNC server for debugging the gateway UI.
+
 ## Build
 
 ```bash
